@@ -1,9 +1,8 @@
 .place__image {
+    object-fit: cover;
     max-width: 460px;
-    grid-column: 1/2;
-    grid-row: 2/3;
-    align-self: start;
-    justify-self: start;
+    max-height: 100%;
+    display: block;
 }
 
 @media screen and (max-width: 1279px) {

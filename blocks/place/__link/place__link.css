@@ -1,4 +1,4 @@
-.place__website__link {
+.place__link {
   max-width: 456px;
   font-weight: 400;
   font-size: 18px;
@@ -8,6 +8,6 @@
   text-underline-offset: 4px;
 }
 
-.place__website__link:hover {
+.place__link:hover {
   opacity: 0.8;
 }
