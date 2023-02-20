@@ -13,6 +13,6 @@ Flexbox-вёрстка
 Grid-вёрстка
 @media-медиазапросы
 
-Ссылка на проект ( https://github.com/anti1hero1/russian-travel/index.html )
+Ссылка на проект ( https://anti1hero1.github.io/russian-travel/ )
 
 
